@@ -1,4 +1,4 @@
-# Code for "A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transporty"
+# Code for "A Multi-Marginal C-Convex Duality Theorem for Martingale Optimal Transport"
 
 ## Julian Sester
 
