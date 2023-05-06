@@ -5,6 +5,11 @@
 # Abstract
 
 A convex duality result for martingale optimal transport problems with two marginals was established in Beiglböck et al (2013). In this paper we provide a generalization of this result to the multi-period setting.
+
+# Content:
+
+An [Example](https://github.com/juliansester/C-Convex/blob/main/C-Convex-Example.ipynb) to compute solutions of the MOT problem using convex envelopes.
+
 # Preprint
 
 
