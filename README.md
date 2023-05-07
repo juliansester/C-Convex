@@ -4,7 +4,7 @@
 
 # Abstract
 
-A convex duality result for martingale optimal transport problems with two marginals was established in Beiglböck et al (2013). In this paper we provide a generalization of this result to the multi-period setting.
+A convex duality result for martingale optimal transport problems with two marginals was established in [Beiglböck et al (2013)](https://link.springer.com/article/10.1007/s00780-013-0205-8). In this paper we provide a generalization of this result to the multi-period setting.
 
 # Content:
 
