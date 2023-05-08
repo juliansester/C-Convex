@@ -10,7 +10,9 @@ A convex duality result for martingale optimal transport problems with two margi
 
 An [Example](https://github.com/juliansester/C-Convex/blob/main/C-Convex-Example.ipynb) to compute solutions of the MOT problem using convex envelopes.
 
-# Preprint
+# Preprint:
+
+[Can be found here ](https://arxiv.org/abs/2305.03344)
 
 
 
